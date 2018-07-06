@@ -939,7 +939,9 @@ body{
 	transform:translatex(-50%);
 	background:#f6e9d6;
 	padding-top:30px;
+	box-shadow: -1000px 0px 10px #f6e9d6,0px 0 0 #fff,1000px 0px 10px #f6e9d6,0px 0 0 #fff;
 }
+
 #banner_buttom_img>.container{
 	width: 1020px;
 	transform:translatex(20px);
